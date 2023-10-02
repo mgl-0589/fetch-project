@@ -1,0 +1,9 @@
+# Ignore credentials file
+creds.cfg
+
+# virtual env
+.venv
+
+# export modules
+data
+__pycache__
