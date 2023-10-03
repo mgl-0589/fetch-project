@@ -2,7 +2,7 @@ import configparser
 
 # CONFIG
 config = configparser.ConfigParser()
-config.read('dwh.cfg')
+config.read('creds.cfg')
 
 user_logins_create_table = ("""
                             CREATE TABLE IF NOT EXISTS user_logins (
