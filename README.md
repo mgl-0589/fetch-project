@@ -69,5 +69,37 @@ Once is validated, close the docker images
 
 `docker-compose down`
 
+## References
+Docker
+
+(https://docs.docker.com/compose/gettingstarted/)
+
+(https://docs.docker.com/engine/reference/commandline/exec/)
+
+(https://www.linode.com/docs/guides/how-to-use-docker-compose/)
+
+LocalStack
+
+(https://hands-on.cloud/testing-python-aws-applications-using-localstack/)
+
+(https://saturncloud.io/blog/how-to-get-all-messages-in-amazon-sqs-queue-using-boto-library-in-python/)
+
+Base64
+
+(https://www.geeksforgeeks.org/encoding-and-decoding-base64-strings-in-python/)
+
+(https://stackabuse.com/encoding-and-decoding-base64-strings-in-python/)
+
+JSON
+
+(https://pynative.com/python-check-if-key-exists-in-json-and-iterate-the-json-array/)
+
+requirements.txt
+
+(https://note.nkmk.me/en/python-pip-install-requirements/)
+
+string app_version into integer
+
+(https://stackoverflow.com/questions/41516633/how-to-convert-version-number-to-integer-value)
 
 
