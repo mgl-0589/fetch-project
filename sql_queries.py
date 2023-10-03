@@ -5,7 +5,7 @@ config = configparser.ConfigParser()
 config.read('dwh.cfg')
 
 user_logins_create_table = ("""
-                            CREATE TABLE IF NOT EXISTS users_login (
+                            CREATE TABLE IF NOT EXISTS user_logins (
                               user_id varchar(128),
                               device_type varchar(32),
                               masked_ip varchar(256),
